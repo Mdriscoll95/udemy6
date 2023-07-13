@@ -1,0 +1,15 @@
+/Users/michaeldriscoll/Desktop/repos/udemy6/udemy6/bin/Debug/net7.0/udemy6
+/Users/michaeldriscoll/Desktop/repos/udemy6/udemy6/bin/Debug/net7.0/udemy6.deps.json
+/Users/michaeldriscoll/Desktop/repos/udemy6/udemy6/bin/Debug/net7.0/udemy6.runtimeconfig.json
+/Users/michaeldriscoll/Desktop/repos/udemy6/udemy6/bin/Debug/net7.0/udemy6.dll
+/Users/michaeldriscoll/Desktop/repos/udemy6/udemy6/bin/Debug/net7.0/udemy6.pdb
+/Users/michaeldriscoll/Desktop/repos/udemy6/udemy6/obj/Debug/net7.0/udemy6.csproj.AssemblyReference.cache
+/Users/michaeldriscoll/Desktop/repos/udemy6/udemy6/obj/Debug/net7.0/udemy6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaeldriscoll/Desktop/repos/udemy6/udemy6/obj/Debug/net7.0/udemy6.AssemblyInfoInputs.cache
+/Users/michaeldriscoll/Desktop/repos/udemy6/udemy6/obj/Debug/net7.0/udemy6.AssemblyInfo.cs
+/Users/michaeldriscoll/Desktop/repos/udemy6/udemy6/obj/Debug/net7.0/udemy6.csproj.CoreCompileInputs.cache
+/Users/michaeldriscoll/Desktop/repos/udemy6/udemy6/obj/Debug/net7.0/udemy6.dll
+/Users/michaeldriscoll/Desktop/repos/udemy6/udemy6/obj/Debug/net7.0/refint/udemy6.dll
+/Users/michaeldriscoll/Desktop/repos/udemy6/udemy6/obj/Debug/net7.0/udemy6.pdb
+/Users/michaeldriscoll/Desktop/repos/udemy6/udemy6/obj/Debug/net7.0/udemy6.genruntimeconfig.cache
+/Users/michaeldriscoll/Desktop/repos/udemy6/udemy6/obj/Debug/net7.0/ref/udemy6.dll
